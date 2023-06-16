@@ -1,4 +1,4 @@
-![reciperealm](./RecipeRealm/core/static/core/images/logo_transparent.png)
+![reciperealm](RecipeRealm/core/static/core/images/logo_transparent.png)
 
 ## Introduction
 RecipeRealm is an online platform that provides personalized recipe recommendations to users based on their dietary preferences, cooking skills, taste preferences, and ingredients on hand.
